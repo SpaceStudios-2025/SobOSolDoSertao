@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bd72ee51a8d76744b3c17324c740faf, type: 3}
+  m_Name: Fruta
+  m_EditorClassIdentifier: 
+  nome: Fruta
+  icone: {fileID: 6904708645501274611, guid: b77c78eaa50769b42b6b4e89591a48d2, type: 3}
+  slots: 1
+  group: 1
+  maxGroup: 2

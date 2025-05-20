@@ -1,0 +1,3280 @@
+fileFormatVersion: 2
+guid: 660c338bc4929554cbc407551d41bc42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4080158241154735727
+    second: ButtonsJoystick_0
+  - first:
+      213: 1156070470613661255
+    second: ButtonsJoystick_1
+  - first:
+      213: -4727065800802904584
+    second: ButtonsJoystick_2
+  - first:
+      213: -6914670974257271427
+    second: ButtonsJoystick_3
+  - first:
+      213: -4691533061932201124
+    second: ButtonsJoystick_4
+  - first:
+      213: -4568336087296080925
+    second: ButtonsJoystick_5
+  - first:
+      213: 3073515282993167534
+    second: ButtonsJoystick_6
+  - first:
+      213: 845053007767119241
+    second: ButtonsJoystick_7
+  - first:
+      213: 9069570410282530242
+    second: ButtonsJoystick_8
+  - first:
+      213: 7636385005588756822
+    second: ButtonsJoystick_9
+  - first:
+      213: 6837869177065092712
+    second: ButtonsJoystick_10
+  - first:
+      213: -4838393313390189251
+    second: ButtonsJoystick_11
+  - first:
+      213: -7158753429833029083
+    second: ButtonsJoystick_12
+  - first:
+      213: -3973098495585327215
+    second: ButtonsJoystick_13
+  - first:
+      213: -2638608232094164747
+    second: ButtonsJoystick_14
+  - first:
+      213: 6313052548503954930
+    second: ButtonsJoystick_15
+  - first:
+      213: -1518429075705087567
+    second: ButtonsJoystick_16
+  - first:
+      213: -6491520810989407628
+    second: ButtonsJoystick_17
+  - first:
+      213: -1594784382150351774
+    second: ButtonsJoystick_18
+  - first:
+      213: -8892939339916265612
+    second: ButtonsJoystick_19
+  - first:
+      213: 9041415267499375746
+    second: ButtonsJoystick_20
+  - first:
+      213: -9196961846763026280
+    second: ButtonsJoystick_21
+  - first:
+      213: 3912654483884105259
+    second: ButtonsJoystick_22
+  - first:
+      213: 1763032775341361998
+    second: ButtonsJoystick_23
+  - first:
+      213: 6580561140551386942
+    second: ButtonsJoystick_24
+  - first:
+      213: -4207752691716604580
+    second: ButtonsJoystick_25
+  - first:
+      213: -6043691535673244027
+    second: ButtonsJoystick_26
+  - first:
+      213: 6109104569449132861
+    second: ButtonsJoystick_27
+  - first:
+      213: -5169945396766514315
+    second: ButtonsJoystick_28
+  - first:
+      213: 2798239121037269270
+    second: ButtonsJoystick_29
+  - first:
+      213: -2877500686320801501
+    second: ButtonsJoystick_30
+  - first:
+      213: 5304362070280540856
+    second: ButtonsJoystick_31
+  - first:
+      213: -8428890732410297402
+    second: ButtonsJoystick_32
+  - first:
+      213: 456121230522892574
+    second: ButtonsJoystick_33
+  - first:
+      213: 4353753471229313509
+    second: ButtonsJoystick_34
+  - first:
+      213: -5734410550489765911
+    second: ButtonsJoystick_35
+  - first:
+      213: -866206322730454624
+    second: ButtonsJoystick_36
+  - first:
+      213: -1726399408532359586
+    second: ButtonsJoystick_37
+  - first:
+      213: 3802415798529551438
+    second: ButtonsJoystick_38
+  - first:
+      213: -7763529150343124819
+    second: ButtonsJoystick_39
+  - first:
+      213: 3130944475784365493
+    second: ButtonsJoystick_40
+  - first:
+      213: -9085131572737629892
+    second: ButtonsJoystick_41
+  - first:
+      213: -9223167707607749576
+    second: ButtonsJoystick_42
+  - first:
+      213: 8686564226120023539
+    second: ButtonsJoystick_43
+  - first:
+      213: -2260680663018062833
+    second: ButtonsJoystick_44
+  - first:
+      213: -9025120747004536102
+    second: ButtonsJoystick_45
+  - first:
+      213: -3969523618754479960
+    second: ButtonsJoystick_46
+  - first:
+      213: 8736975038089181722
+    second: ButtonsJoystick_47
+  - first:
+      213: 3547896280636473720
+    second: ButtonsJoystick_48
+  - first:
+      213: -7577788159738704764
+    second: ButtonsJoystick_49
+  - first:
+      213: 862073124456479144
+    second: ButtonsJoystick_50
+  - first:
+      213: 326085299944144909
+    second: ButtonsJoystick_51
+  - first:
+      213: 5772222668790737914
+    second: ButtonsJoystick_52
+  - first:
+      213: 1300270702253702257
+    second: ButtonsJoystick_53
+  - first:
+      213: 1862903332271555137
+    second: ButtonsJoystick_54
+  - first:
+      213: -4457948927014163912
+    second: ButtonsJoystick_55
+  - first:
+      213: 1346776954013059027
+    second: ButtonsJoystick_56
+  - first:
+      213: -687019823375941754
+    second: ButtonsJoystick_57
+  - first:
+      213: 5011093816199452130
+    second: ButtonsJoystick_58
+  - first:
+      213: -3254925310697643008
+    second: ButtonsJoystick_59
+  - first:
+      213: 6598462231498603570
+    second: ButtonsJoystick_60
+  - first:
+      213: 515854315277301137
+    second: ButtonsJoystick_61
+  - first:
+      213: -6289554034354331153
+    second: ButtonsJoystick_62
+  - first:
+      213: -8378358675916142770
+    second: ButtonsJoystick_63
+  - first:
+      213: -6166527676108458941
+    second: ButtonsJoystick_64
+  - first:
+      213: -7987203950656515523
+    second: ButtonsJoystick_65
+  - first:
+      213: -8223243729258093493
+    second: ButtonsJoystick_66
+  - first:
+      213: -2066987018671168832
+    second: ButtonsJoystick_67
+  - first:
+      213: -4441302931914504462
+    second: ButtonsJoystick_68
+  - first:
+      213: -8881361321188946770
+    second: ButtonsJoystick_69
+  - first:
+      213: 1065477181458507276
+    second: ButtonsJoystick_70
+  - first:
+      213: -3897563163773667473
+    second: ButtonsJoystick_71
+  - first:
+      213: -5706010724448502786
+    second: ButtonsJoystick_72
+  - first:
+      213: -6107282208679966916
+    second: ButtonsJoystick_73
+  - first:
+      213: -2038705488953003944
+    second: ButtonsJoystick_74
+  - first:
+      213: -6884271000355987129
+    second: ButtonsJoystick_75
+  - first:
+      213: 1866963408768593614
+    second: ButtonsJoystick_76
+  - first:
+      213: -1925745541118496806
+    second: ButtonsJoystick_77
+  - first:
+      213: -3155958068235497383
+    second: ButtonsJoystick_78
+  - first:
+      213: 7021634344921629524
+    second: ButtonsJoystick_79
+  - first:
+      213: -7896561718182471884
+    second: ButtonsJoystick_80
+  - first:
+      213: 5974688910137113357
+    second: ButtonsJoystick_81
+  - first:
+      213: -487385199463029438
+    second: ButtonsJoystick_82
+  - first:
+      213: 7022445072635200374
+    second: ButtonsJoystick_83
+  - first:
+      213: -8019259162618954166
+    second: ButtonsJoystick_84
+  - first:
+      213: 8278042683406252046
+    second: ButtonsJoystick_85
+  - first:
+      213: 4389774739670215858
+    second: ButtonsJoystick_86
+  - first:
+      213: -704075318719091524
+    second: ButtonsJoystick_87
+  - first:
+      213: 737255279710502624
+    second: ButtonsJoystick_88
+  - first:
+      213: -4148764986360596805
+    second: ButtonsJoystick_89
+  - first:
+      213: 4768728157980114812
+    second: ButtonsJoystick_90
+  - first:
+      213: 4803598504605292112
+    second: ButtonsJoystick_91
+  - first:
+      213: -4957458639843921812
+    second: ButtonsJoystick_92
+  - first:
+      213: 416616619577250202
+    second: ButtonsJoystick_93
+  - first:
+      213: 4026561923301418016
+    second: ButtonsJoystick_94
+  - first:
+      213: 3260894381053158331
+    second: ButtonsJoystick_95
+  - first:
+      213: 1461731601824663298
+    second: ButtonsJoystick_96
+  - first:
+      213: 9049707899774247256
+    second: ButtonsJoystick_97
+  - first:
+      213: 7242580004549048818
+    second: ButtonsJoystick_98
+  - first:
+      213: -194708401145793297
+    second: ButtonsJoystick_99
+  - first:
+      213: -4052608933272355955
+    second: ButtonsJoystick_100
+  - first:
+      213: -3978245286419053126
+    second: ButtonsJoystick_101
+  - first:
+      213: 7750712257835815985
+    second: ButtonsJoystick_102
+  - first:
+      213: 4350478076973183768
+    second: ButtonsJoystick_103
+  - first:
+      213: 3189477823346438536
+    second: ButtonsJoystick_104
+  - first:
+      213: -2524628549611683261
+    second: ButtonsJoystick_105
+  - first:
+      213: -6267699492040659692
+    second: ButtonsJoystick_106
+  - first:
+      213: -6794396043257831781
+    second: ButtonsJoystick_107
+  - first:
+      213: -1025467885910095844
+    second: ButtonsJoystick_108
+  - first:
+      213: 1200855083653037630
+    second: ButtonsJoystick_109
+  - first:
+      213: 8048715979624886790
+    second: ButtonsJoystick_110
+  - first:
+      213: 9114813399886451732
+    second: ButtonsJoystick_111
+  - first:
+      213: -187372123740344856
+    second: ButtonsJoystick_112
+  - first:
+      213: 1606171000653652721
+    second: ButtonsJoystick_113
+  - first:
+      213: 4876646525056947924
+    second: ButtonsJoystick_114
+  - first:
+      213: 4330650144335932830
+    second: ButtonsJoystick_115
+  - first:
+      213: -8546888652947026846
+    second: ButtonsJoystick_116
+  - first:
+      213: 920539350688543243
+    second: ButtonsJoystick_117
+  - first:
+      213: 3174020377462390753
+    second: ButtonsJoystick_118
+  - first:
+      213: 874541667560327615
+    second: ButtonsJoystick_119
+  - first:
+      213: 7890262328042295684
+    second: ButtonsJoystick_120
+  - first:
+      213: 3085432096750758987
+    second: ButtonsJoystick_121
+  - first:
+      213: 8924054056225722104
+    second: ButtonsJoystick_122
+  - first:
+      213: 4809549722089549016
+    second: ButtonsJoystick_123
+  - first:
+      213: 3552676256946949899
+    second: ButtonsJoystick_124
+  - first:
+      213: 4059684847012538763
+    second: ButtonsJoystick_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonsJoystick_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 697
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191e69082bd5067c0800000000000000
+      internalID: -4080158241154735727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 697
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746fe38c7ff2b0010800000000000000
+      internalID: 1156070470613661255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 697
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5de3103b6166eb0800000000000000
+      internalID: -4727065800802904584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 697
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7de0b862672a00a0800000000000000
+      internalID: -6914670974257271427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 758
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bc787798354eeb0800000000000000
+      internalID: -4691533061932201124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 697
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e38e1e58820a90c0800000000000000
+      internalID: -4568336087296080925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 731
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacba8e9dd157aa20800000000000000
+      internalID: 3073515282993167534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 731
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a558bb3b3abb00800000000000000
+      internalID: 845053007767119241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 731
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b84a4c369ddd70800000000000000
+      internalID: 9069570410282530242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_9
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 731
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659bc3a04b3e9f960800000000000000
+      internalID: 7636385005588756822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_10
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 703
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866be87b9cdf4ee50800000000000000
+      internalID: 6837869177065092712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_11
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 741
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35a0c79ae29adcb0800000000000000
+      internalID: -4838393313390189251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_12
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 741
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a613c2faff6ac90800000000000000
+      internalID: -7158753429833029083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976ff8f7f7bcd8c0800000000000000
+      internalID: -3973098495585327215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 706
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f81b98fac7c16bd0800000000000000
+      internalID: -2638608232094164747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_15
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e3f948d77c9750800000000000000
+      internalID: 6313052548503954930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b939f5fcc47deae0800000000000000
+      internalID: -1518429075705087567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_17
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 706
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472bbe8473c79e5a0800000000000000
+      internalID: -6491520810989407628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2646690dd003ed9e0800000000000000
+      internalID: -1594784382150351774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_19
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 722
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b13389cee59480800000000000000
+      internalID: -8892939339916265612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf716484f897d70800000000000000
+      internalID: 9041415267499375746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 706
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988ede8de3dd5080800000000000000
+      internalID: -9196961846763026280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e50c0e58a8c4630800000000000000
+      internalID: 3912654483884105259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_23
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 722
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc79dd7fc877810800000000000000
+      internalID: 1763032775341361998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_24
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e370e45fd79d25b50800000000000000
+      internalID: 6580561140551386942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_25
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 706
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db983783f0b95c0800000000000000
+      internalID: -4207752691716604580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_26
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 720
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5864924b19e702ca0800000000000000
+      internalID: -6043691535673244027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_27
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 701
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d333bbd0d36e7c450800000000000000
+      internalID: 6109104569449132861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_28
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 689
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e09d9d0aa048b0800000000000000
+      internalID: -5169945396766514315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6191706a7a755d620800000000000000
+      internalID: 2798239121037269270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329e7e61f501118d0800000000000000
+      internalID: -2877500686320801501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2902ff231ec9940800000000000000
+      internalID: 5304362070280540856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_32
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c32a1c7980960b80800000000000000
+      internalID: -8428890732410297402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_33
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 597
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11c4dfa7d7745600800000000000000
+      internalID: 456121230522892574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_34
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 601
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e14f3407b3ab6c30800000000000000
+      internalID: 4353753471229313509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_35
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 597
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e72ecd8cf74b60b0800000000000000
+      internalID: -5734410550489765911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_36
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 601
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1347750fd9af3f0800000000000000
+      internalID: -866206322730454624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_37
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 595
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56fbf182e89a08e0800000000000000
+      internalID: -1726399408532359586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_38
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 595
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cefafc505e4c430800000000000000
+      internalID: 3802415798529551438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_39
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 592
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da86866ee57624490800000000000000
+      internalID: -7763529150343124819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 514
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5499a8969537b20800000000000000
+      internalID: 3130944475784365493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 514
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a94d38f02be180800000000000000
+      internalID: -9085131572737629892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_42
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 514
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83caf2c16d9b00080800000000000000
+      internalID: -9223167707607749576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_43
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 514
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdff78e320ec8870800000000000000
+      internalID: 8686564226120023539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_44
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 510
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cb6322ae270a0e0800000000000000
+      internalID: -2260680663018062833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_45
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 510
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada59cb6f7450c280800000000000000
+      internalID: -9025120747004536102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_46
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 510
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8bd98dc4b69e8c0800000000000000
+      internalID: -3969523618754479960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_47
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 510
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab2c4b188ff3970800000000000000
+      internalID: 8736975038089181722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_48
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 485
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8714443aed8ac3130800000000000000
+      internalID: 3547896280636473720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_49
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 485
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c0d9b41d946d690800000000000000
+      internalID: -7577788159738704764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_50
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 521
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b3a170f2b6fb00800000000000000
+      internalID: 862073124456479144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_51
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 480
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00c5a54adc768400800000000000000
+      internalID: 326085299944144909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbaab94fed0b1050800000000000000
+      internalID: 5772222668790737914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 481
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cfda7805d7b0210800000000000000
+      internalID: 1300270702253702257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_54
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14200fae5bc5ad910800000000000000
+      internalID: 1862903332271555137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_55
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aac72f11f2222c0800000000000000
+      internalID: -4457948927014163912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 481
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d781af0186b0b210800000000000000
+      internalID: 1346776954013059027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_57
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f76025c173776f0800000000000000
+      internalID: -687019823375941754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_58
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e599b2a64bfa8540800000000000000
+      internalID: 5011093816199452130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 481
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004607ddcae24d2d0800000000000000
+      internalID: -3254925310697643008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_60
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c3e4c7072729b50800000000000000
+      internalID: 6598462231498603570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_61
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195b4f144cea82700800000000000000
+      internalID: 515854315277301137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_62
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 481
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe16fa2ede307b8a0800000000000000
+      internalID: -6289554034354331153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_63
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 497
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c439bc271abb80800000000000000
+      internalID: -8378358675916142770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_64
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344b0ff00c71c6aa0800000000000000
+      internalID: -6166527676108458941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_65
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 481
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32958c2350c72190800000000000000
+      internalID: -7987203950656515523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_66
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ec18956b21ed80800000000000000
+      internalID: -8223243729258093493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_67
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e2c402469053e0800000000000000
+      internalID: -2066987018671168832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_68
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 481
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6c553b3825d52c0800000000000000
+      internalID: -4441302931914504462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_69
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac83a01fe01fb480800000000000000
+      internalID: -8881361321188946770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_70
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066e15f9d559ce00800000000000000
+      internalID: 1065477181458507276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_71
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 481
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f677f95e3f219e9c0800000000000000
+      internalID: -3897563163773667473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_72
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb7da45a7d20d0b0800000000000000
+      internalID: -5706010724448502786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_73
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37419060339e3ba0800000000000000
+      internalID: -6107282208679966916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_74
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 481
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8503159c82015b3e0800000000000000
+      internalID: -2038705488953003944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_75
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 497
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412246eff72670a0800000000000000
+      internalID: -6884271000355987129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_76
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceed442459c8e910800000000000000
+      internalID: 1866963408768593614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfe6d522a06645e0800000000000000
+      internalID: -1925745541118496806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_78
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 397
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9509bc0abd8c334d0800000000000000
+      internalID: -3155958068235497383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_79
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 396
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538cb70c3bd17160800000000000000
+      internalID: 7021634344921629524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_80
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43719c084f6c96290800000000000000
+      internalID: -7896561718182471884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b303498eb5ae250800000000000000
+      internalID: 5974688910137113357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245293d4eb57c39f0800000000000000
+      internalID: -487385199463029438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_83
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6730d19469cb47160800000000000000
+      internalID: 7022445072635200374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_84
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 397
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4efc4a874ed5b090800000000000000
+      internalID: -8019259162618954166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_85
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 396
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0873fb26f381e270800000000000000
+      internalID: 8278042683406252046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_86
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bca6022edc9bec30800000000000000
+      internalID: 4389774739670215858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_87
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 361
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbce0ac5a3f9a36f0800000000000000
+      internalID: -704075318719091524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 361
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eefcef45c14b3a00800000000000000
+      internalID: 737255279710502624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_89
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 361
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f56bd930ac66c0800000000000000
+      internalID: -4148764986360596805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_90
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 293
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbece6efced2240800000000000000
+      internalID: 4768728157980114812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056989ea36fc9a240800000000000000
+      internalID: 4803598504605292112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_92
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 297
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60796ff1a1933bb0800000000000000
+      internalID: -4957458639843921812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_93
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 261
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a911d61bb9e18c500800000000000000
+      internalID: 416616619577250202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_94
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 294
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024ae705cb831e730800000000000000
+      internalID: 4026561923301418016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_95
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 259
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3adb0a926014d20800000000000000
+      internalID: 3260894381053158331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_96
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 259
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207c8b3b52d194410800000000000000
+      internalID: 1461731601824663298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_97
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 293
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851271f2365079d70800000000000000
+      internalID: 9049707899774247256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_98
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f93e7c2420d28460800000000000000
+      internalID: 7242580004549048818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_99
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 297
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4bbe2adb14c4df0800000000000000
+      internalID: -194708401145793297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_100
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 261
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bf9b695ad32c7c0800000000000000
+      internalID: -4052608933272355955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_101
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 294
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ce995dfe6ac8c0800000000000000
+      internalID: -3978245286419053126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_102
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 259
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134d194cbbf009b60800000000000000
+      internalID: 7750712257835815985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_103
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 259
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8137c1dd2c0006c30800000000000000
+      internalID: 4350478076973183768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 273
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881fc878e2d434c20800000000000000
+      internalID: 3189477823346438536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_105
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 273
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342069ec5b7b6fcd0800000000000000
+      internalID: -2524628549611683261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_106
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 255
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d250a0588a409a0800000000000000
+      internalID: -6267699492040659692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_107
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 273
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e1c420cc475b1a0800000000000000
+      internalID: -6794396043257831781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_108
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 273
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1802c3146ec4c1f0800000000000000
+      internalID: -1025467885910095844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_109
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 255
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e7cdf065b4aa010800000000000000
+      internalID: 1200855083653037630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_110
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 251
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6023d8f1a88c2bf60800000000000000
+      internalID: 8048715979624886790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_111
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 251
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414d33eae725e7e70800000000000000
+      internalID: 9114813399886451732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_112
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 251
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed65a3db02566df0800000000000000
+      internalID: -187372123740344856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_113
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 251
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2ae76e3044a4610800000000000000
+      internalID: 1606171000653652721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_114
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 147
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6992d4d245da340800000000000000
+      internalID: 4876646525056947924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_115
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 147
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d23ab8c5f891c30800000000000000
+      internalID: 4330650144335932830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_116
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 181
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c8642bd0a536980800000000000000
+      internalID: -8546888652947026846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_117
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 156
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b023f8789a966cc00800000000000000
+      internalID: 920539350688543243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_118
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 147
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3f7477b26c0c20800000000000000
+      internalID: 3174020377462390753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_119
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 147
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9063c530ff22c00800000000000000
+      internalID: 874541667560327615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_120
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 147
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4819b9f68c7df7d60800000000000000
+      internalID: 7890262328042295684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_121
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 181
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cea690528a1da20800000000000000
+      internalID: 3085432096750758987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_122
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 156
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fec7b9e1eb98db70800000000000000
+      internalID: 8924054056225722104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_123
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 147
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dce9ba7df3feb240800000000000000
+      internalID: 4809549722089549016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_124
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 145
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f89499b34ad4130800000000000000
+      internalID: 3552676256946949899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsJoystick_125
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 145
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e736fbd5e65830800000000000000
+      internalID: 4059684847012538763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
