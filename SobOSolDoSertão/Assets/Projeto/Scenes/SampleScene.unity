@@ -1145,7 +1145,7 @@ GameObject:
   - component: {fileID: 287096800}
   - component: {fileID: 287096801}
   - component: {fileID: 287096799}
-  - component: {fileID: 287096798}
+  - component: {fileID: 287096802}
   m_Layer: 0
   m_Name: CoinsSaco
   m_TagString: Untagged
@@ -1153,42 +1153,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!58 &287096798
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 287096797}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.25}
-  m_Radius: 0.32
 --- !u!212 &287096799
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1273,6 +1237,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coins: 10
+--- !u!60 &287096802
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 287096797}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: -0.23529412}
+    oldSize: {x: 0.4814815, y: 0.3148148}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.1461657, y: 0.39018446}
+      - {x: -0.24014294, y: 0.27065516}
+      - {x: -0.24431586, y: 0.19552755}
+      - {x: -0.2213076, y: 0.15904659}
+      - {x: -0.03101468, y: 0.14144234}
+      - {x: -0.040118933, y: 0.07506466}
+      - {x: 0.048878193, y: 0.07707834}
+      - {x: 0.08121824, y: 0.12843299}
+      - {x: 0.23624548, y: 0.16476254}
+      - {x: 0.24333188, y: 0.21826088}
+      - {x: 0.19928312, y: 0.26245904}
+      - {x: 0.07879707, y: 0.24561682}
+      - {x: -0.018443875, y: 0.39018446}
+  m_UseDelaunayMesh: 0
 --- !u!1 &344177743
 GameObject:
   m_ObjectHideFlags: 0
@@ -4690,6 +4714,7 @@ MonoBehaviour:
   slots: []
   prefab_item: {fileID: 4297682854936484364, guid: da043a543ffb52441b17c7b3db63f90d, type: 3}
   prefab_item_doble: {fileID: 5580133563614810631, guid: a0a19c0e9fffad34fb565dd6e5f39e0d, type: 3}
+  itensInventory: []
 --- !u!1 &1156788202
 GameObject:
   m_ObjectHideFlags: 0
@@ -14144,7 +14169,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 3607183305220005669, guid: bb10d1c004500794f943e7228d48c500, type: 3}
+  m_Sprite: {fileID: 2184050914111923343, guid: b3ed0574d1fdba945b1a3064760b3827, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -14167,6 +14192,7 @@ GameObject:
   - component: {fileID: 8660056452821376752}
   - component: {fileID: 3294130910144595433}
   - component: {fileID: 8660056452821376751}
+  - component: {fileID: 8660056452821376753}
   m_Layer: 0
   m_Name: Coins
   m_TagString: Untagged
@@ -14282,6 +14308,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5880138342979421720}
   - component: {fileID: 4971343999445185852}
+  - component: {fileID: 5880138342979421721}
   m_Layer: 0
   m_Name: shadow
   m_TagString: Untagged
@@ -14367,6 +14394,28 @@ Transform:
   m_Children: []
   m_Father: {fileID: 8660056452821376750}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 27.838}
+--- !u!95 &5880138342979421721
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4591498815001083409}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: -859128187324971629, guid: b3ed0574d1fdba945b1a3064760b3827, type: 3}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &5914255848950519526
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14598,8 +14647,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.125}
-  m_Radius: 0.32
+  m_Offset: {x: 0, y: 0.0952381}
+  m_Radius: 0.083333336
 --- !u!114 &8660056452821376752
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14613,6 +14662,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coins: 1
+--- !u!95 &8660056452821376753
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3619787473548025145}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: -859128187324971629, guid: b3ed0574d1fdba945b1a3064760b3827, type: 3}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

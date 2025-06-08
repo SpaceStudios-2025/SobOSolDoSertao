@@ -12,10 +12,14 @@ public class SlotManager : MonoBehaviour
     public GameObject prefab_item_doble;
     private List<int> pontas = new();
 
+    public List<ItemInventory> itensInventory = new();
+
+    private ItemInventory selectSlot;
+    private int indice = 0;
+
     void Start()
     {
         LoadSlots();
-        
     }
 
     void LoadSlots()
@@ -65,9 +69,9 @@ public class SlotManager : MonoBehaviour
             {
                 foreach (var slot in slots)
                 {
-                   if (slot.full && slot.transform.childCount > 0
-                    && slot.transform.GetChild(0).GetComponent<ItemInventory>().item == item &&
-                    slot.transform.GetChild(0).GetComponent<ItemInventory>().qtd < item.maxGroup)
+                    if (slot.full && slot.transform.childCount > 0
+                     && slot.transform.GetChild(0).GetComponent<ItemInventory>().item == item &&
+                     slot.transform.GetChild(0).GetComponent<ItemInventory>().qtd < item.maxGroup)
                     {
                         return Reload(slot.transform.GetChild(0).GetComponent<ItemInventory>());
                     }
@@ -79,7 +83,8 @@ public class SlotManager : MonoBehaviour
             {
                 bool pont = false;
                 var slot = slots[i];
-                foreach (var j in pontas){
+                foreach (var j in pontas)
+                {
                     if (i == j)
                     {
                         pont = true;
@@ -118,8 +123,8 @@ public class SlotManager : MonoBehaviour
                     }
                 }
             }
-            
-            
+
+
         }
 
         GameManager.controller.Alert("O inventario esta cheio!");
@@ -129,13 +134,26 @@ public class SlotManager : MonoBehaviour
     void CreateItem(Transform parent, Item item)
     {
         var itemSlot = Instantiate(prefab_item, parent);
-        itemSlot.GetComponent<ItemInventory>().Style(item);
+        var ii = itemSlot.GetComponent<ItemInventory>();
+        ii.Style(item);
+
+        itensInventory.Add(ii);
+
+        if(selectSlot == null)
+            SelectItens(0);
     }
 
     void CreateItemDoble(Transform parent, Item item, int[] indices)
     {
         var itemSlot = Instantiate(prefab_item_doble, parent);
-        itemSlot.GetComponent<ItemInventory>().Style(item,indices);
+        var ii = itemSlot.GetComponent<ItemInventory>();
+
+        ii.Style(item, indices);
+
+        itensInventory.Add(ii);
+
+        if(selectSlot == null)
+            SelectItens(0);
     }
 
     public bool Reload(ItemInventory item)
@@ -144,9 +162,65 @@ public class SlotManager : MonoBehaviour
         return true;
     }
 
-    public bool Delete(GameObject slot,Item item)
+    public bool Delete(GameObject slot, Item item)
     {
         return false;
     }
 
+    public void SelectItens(int index)
+    {
+        if (itensInventory.Count > 0)
+        {
+            foreach (var i in itensInventory)
+            {
+                i.Desselect();
+            }
+
+            if (index <= itensInventory.Count - 1 && index >= 0)
+            {
+                itensInventory[index].Select();
+                selectSlot = itensInventory[index];
+
+                indice = index;
+            }
+            else
+            {
+                if (index < 0)
+                {
+                    SelectItens(itensInventory.Count - 1);
+                }
+                else if (index > itensInventory.Count - 1)
+                {
+                    SelectItens(0);
+                }
+            }
+        }
+    }
+
+
+    void Update()
+    {
+        if (InventoryManager.inventoryOpen)
+        {
+            MoveSlots();
+        }
+    }
+
+    private float previousDpadX = 0f;
+
+    public void MoveSlots()
+    {
+        float dpadX = Input.GetAxisRaw("DPadHorizontal");
+
+        bool dpadLeftPressed = dpadX < -0.5f && previousDpadX >= -0.5f;
+        bool dpadRightPressed = dpadX > 0.5f && previousDpadX <= 0.5f;
+
+        if (dpadRightPressed)
+            SelectItens(indice + 1);
+        else if (dpadLeftPressed)
+            SelectItens(indice - 1);
+
+        // Salvar valores para o próximo frame
+        previousDpadX = dpadX;
+    }
 }

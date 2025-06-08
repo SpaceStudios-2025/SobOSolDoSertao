@@ -176,6 +176,8 @@ public class CharacterManager : MonoBehaviour
         elements.inventario_interface.SetActive(!elements.inventario_interface.activeSelf);
         inventory = elements.inventario_interface.activeSelf;
         Time.timeScale = inventory ? .2f : 1f;
+
+        InventoryManager.inventoryOpen = inventory;
     }
 
 

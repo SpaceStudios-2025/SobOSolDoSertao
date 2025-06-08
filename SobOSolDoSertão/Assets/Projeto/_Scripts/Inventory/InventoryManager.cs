@@ -28,6 +28,8 @@ public class InventoryManager : MonoBehaviour
     [Header("Hand")]
     [SerializeField] private Image iconeHand;
 
+    public static bool inventoryOpen;
+
     public bool CreateItem(Item item)
     {
         return slotManager.Create(item);
